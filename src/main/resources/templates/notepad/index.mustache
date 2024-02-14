@@ -11,6 +11,10 @@
     <title>Hello, world!</title>
 </head>
 <body>
+<h1>
+    <div class="mb-3"></div>
+    <div style="text-align:center">메모 목록</div>
+</h1>
 
 <table class="table">
     <thead>
@@ -24,13 +28,14 @@
     {{#notepadList}}
         <tr>
             <th>{{id}}</th>
-            <td><a href="/articles/{{id}}">{{title}}</a></td>
+            <td><a href="/notepad/{{id}}">{{title}}</a></td>
             <td>{{content}}</td>
         </tr>
     {{/notepadList}}
     </tbody>
 </table>
 
-<a href="/notepad/create" class="btn btn-dark">메모 작성</a>
+<a href="/notepad/write" class="btn btn-dark">메모 작성하기</a>
+
 </body>
 </html>
