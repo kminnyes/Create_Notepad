@@ -89,6 +89,10 @@
 ```
 ## 구현 화면
 + 메모 작성
+  ![스크린샷 2024-02-14 214042](https://github.com/kminnyes/Create_Notepad/assets/129060022/bd1ef26a-2809-4011-948a-92fce2404df3)
 + 메모 수정
+  ![스크린샷 2024-02-14 214158](https://github.com/kminnyes/Create_Notepad/assets/129060022/07fb4afc-423c-448a-883c-a31bd13ba432)
 + 메모 목록
+  ![스크린샷 2024-02-14 214126](https://github.com/kminnyes/Create_Notepad/assets/129060022/2f342067-86a6-44b8-b418-43599775b6ac)
 + 메모 상세
+  ![스크린샷 2024-02-14 214148](https://github.com/kminnyes/Create_Notepad/assets/129060022/0b38decb-9147-421c-8cf5-36a88f01c285)
